@@ -1,0 +1,46 @@
+.navigation{
+    float: right;
+    height: 100%;
+}
+
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+    background-color: #101010;
+}
+
+.navigation a li{
+    vertical-align: right;
+    display: inline-top;
+    font-size: 20px;
+    color: white;
+    padding: 10px 10px 0px 10px
+    background: black
+
+}
+
+.navigation a:hover{
+    background-color: gray;
+    color: #101010;
+}
+
+.logo-container h1{
+    display: inline-block;
+    background: black;
+    color: white;
+}
+
+.header{
+    background-color: black;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.left{
+    float: left;
+    margin: 7px 7px 7px 0px;
+}
